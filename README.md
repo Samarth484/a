@@ -1,5 +1,5 @@
 
-# https://opensourcefrontend.netlify.app.
+
 
 <p align="center">
  <img width="1000" height="400" src="https://raw.githubusercontent.com/Bugs403/covitine-server/master/public/img/Covitine.png">
@@ -100,17 +100,7 @@ Phase 7
 >>- •Busts Myths.
 >>- •Provides Authentic Sources and Services all encapsulated at a single place via Informatics.
 
-<br>
 
-# <u> :horse_racing: `July` :computer: </u>
-- ## :high_brightness: Open Source Event
-
-	###  1- Alibaba Summer of Code [link](https://alibaba.github.io)
-		Work begin
-   >- ***Alibaba Summer of Code*** is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.
-   >- On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.
-
-<br>
 
 # <u> :beers: `Project Summary` :mag:</u>
 - 
